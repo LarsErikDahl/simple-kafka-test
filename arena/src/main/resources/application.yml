@@ -1,0 +1,6 @@
+server:
+  port: 8090
+kafka:
+  bootstrap-servers: localhost:9092
+  topic:
+    json: json.t
